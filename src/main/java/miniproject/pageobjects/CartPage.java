@@ -16,6 +16,7 @@ public class CartPage extends AbstractComponent {
 		super(driver);
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+		
 	}
 // 	List <WebElement> cartProducts = driver.findElements(By.cssSelector(".cartSection h3"));
 	//pageFactory 
