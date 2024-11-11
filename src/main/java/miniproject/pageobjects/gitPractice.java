@@ -6,7 +6,8 @@ public class gitPractice {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to git");
-
+		System.out.println("Welcome to git1");
+		System.out.println("Welcome to git2");
 	}
 
 }
