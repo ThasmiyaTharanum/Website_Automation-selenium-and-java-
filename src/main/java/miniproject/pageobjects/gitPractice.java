@@ -10,6 +10,8 @@ public class gitPractice {
 		System.out.println("Welcome to git2");
 		System.out.println("Welcome to git4");
 		System.out.println("Welcome to git5");
+		System.out.println("Welcome to git6");
+		System.out.println("Welcome to git7");
 	}
 
 }
